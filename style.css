@@ -35,11 +35,13 @@
             align-items: center;
             justify-content: space-between;
         }
-        
+        .navbar .navbox .logo a img {
+            height: 43px;
+            width: 48px;
+        }
         .navbar .logo a {
             color: rgb(230, 220, 235);
-            font-size: 35px;
-            font-weight: 600;
+         
         }
         
         .navbar .logo a span {
