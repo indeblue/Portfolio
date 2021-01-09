@@ -128,7 +128,7 @@
            transition: all 0.3s ease;
         }
         
-        .home .home-content .text-2:hover {
+        .home .home-content .text-2 fa:hover {
             opacity: 1.2;
         }
         
